@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MeasermentApplication/app/src/main/res/drawable-anydpi/ic_down.xml" value="0.2095" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MeasermentApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2095" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MeasermentApplication/app/src/main/res/drawable/ic_baseline_arrow_drop_down_circle_24.xml" value="0.2095" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MeasermentApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2095" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MeasermentApplication/app/src/main/res/drawable/sp_bg.xml" value="0.2095" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MeasermentApplication/app/src/main/res/drawable/spdowntrangle_spinner.xml" value="0.10400000000000001" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/MeasermentApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MeasermentApplication/app/src/main/res/layout/activity_unit_covert_app_second_page.xml" value="0.2128623188405797" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/MeasermentApplication/app/src/main/res/layout/fragment_1.xml" value="0.25" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/MeasermentApplication/app/src/main/res/layout/textview_blue.xml" value="0.25" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/MeasermentApplication/app/src/main/res/layout/textview_red.xml" value="0.25" />
